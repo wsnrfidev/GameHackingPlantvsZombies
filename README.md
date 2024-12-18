@@ -1,9 +1,23 @@
-# GameHacking_PlantvsZombies
+# Hack Plant vs Zombie
 
-INI ADALAH PROJEK PERTAMA SAYA SAAT MEMPELAJARI TENTANG READ & WRITE MEMORY/MEMORY HACKING/GAME HACKING
+[IDN]
 
-PROGRAM INI DIBUAT SEDEMIKIAN RUPA MENGGUNAKAN METHODE READ AND WRITE BYTES - KNOP DALAM ADDRESS DI GAME TERSEBUT
-YANG MEMBUAT JIKA FITUR UNLIMITED SUNS DIAKTIFKAN MEMBACA BYTES DAN MENGUBAH MENJADI KNOP DAN MEMBUAT MATAHARI
-DI GAME TERSEBUT UNLIMITED. ANDA BISA MENCARI TUTORIAL MENEMUKAN ADDRESSNYA DI BEBERAPA AKUN YOUTUBE YANG\
-MEMBAHAS TENTANG GAME HACKING.... DAN ANDA JUGA BISA MENAMBAHKAN FITUR CHEAT TERSEBUT SESUAI DENGAN 
-KEINGINAN ANDA....
+Projek ini saya buat untuk edukasi tentang game hacking, dan kali ini target gamenya adalah Plant vs Zombie.
+
+Untuk Fiturnya hanya 1 yaitu unlimited suns.
+
+Methode yang digunakan adalah saya mengganti Bytes ke Knop milik address dari suns di dalam game tersebut.
+dan untuk menemukan addressnya kalian bisa mencari menggunakan cheat engine.
+
+dan untuk gui saya menggunakan gui dari c#
+
+[ENG]
+
+I created this project to educate about hacking games, and this time the target game is Plants vs Zombies.
+
+There is only 1 feature, namely unlimited suns.
+
+The method used is that I changed Bytes to Knop belonging to the address of the Suns in the game.
+and to find the address you can search using a cheat engine.
+
+and for the gui I use the gui from c#
